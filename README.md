@@ -8,4 +8,4 @@ An Example of how to create a Rest Framework With Django Rest FrameWork
 pip3 install -r requirements.txt
 ```
 
-Add the
+This will install all the dependencies
